@@ -1,0 +1,134 @@
+{
+ "ref": "2CU503147238",
+ "refDisplay": "2CU5 0 314 7238",
+ "title": "DOUBLURE AILE,BRANCARD AV,PANNEAU DE COTE COTE G",
+ "nature": "",
+ "applicability": "(A06Y) JUMPER II FOURG TOLE COURT FLAN STD PAV SUR TYPE 10 INJECTION XU10J2 4X4 DANGEL OU (A061) JUMPER II FOURG TOLE COURT FLAN STD PAV SUR TYPE 10 INJECTION XU10J2 4X4 DANGEL",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNB&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNB&B0F=B0F7W",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNC&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0F2X",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0F7W",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0FDB",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0FDD",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTB&B0F=B0F2X",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTB&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTB&B0F=B0F7W",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTB&B0F=B0FDB",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTD&B0F=B0F7W",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTD&B0F=B0FDB",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTD&B0F=B0FDD",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTA&B0F=B0F2X",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSC&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWB&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWB&B0F=B0F7W",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWC&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWC&B0F=B0F7W",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWD&B0F=B0F5T",
+   "fctId": "FCT0110"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWD&B0F=B0F7W",
+   "fctId": "FCT0110"
+  }
+ ]
+}

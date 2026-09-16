@@ -1,0 +1,83 @@
+{
+ "ref": "030107842660",
+ "refDisplay": "0301 07 842660",
+ "title": "VITRE DE PORTE LATERALE AR COULISSANTE",
+ "nature": "",
+ "applicability": "MINIBUS ET 3 PREMIERS CARACTERES DU VIN = VF7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F5T",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F5T",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F7W",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F7W",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDT",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDT",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDK",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDK",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDB",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDB",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDD",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDD",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDC",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDC",
+   "fctId": "FCT0329"
+  }
+ ]
+}

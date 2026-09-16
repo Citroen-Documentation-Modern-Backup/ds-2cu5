@@ -1,0 +1,88 @@
+{
+ "ref": "030108982901A",
+ "refDisplay": "0301 08 982901A",
+ "title": "GARNITURE DE PORTE LATERALE AR BATTANTE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0F7W",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0FDB",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0FDD",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0F5T",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0F7W",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0FDB",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0FDD",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJH&B0F=B0F7W",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJH&B0F=B0FDB",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJJ&B0F=B0F7W",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJJ&B0F=B0FDB",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJX&B0F=B0F7W",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJY&B0F=B0F7W",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJY&B0F=B0FDB",
+   "fctId": "FCT0141"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJY&B0F=B0FDD",
+   "fctId": "FCT0141"
+  }
+ ]
+}

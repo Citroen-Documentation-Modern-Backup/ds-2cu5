@@ -1,0 +1,43 @@
+{
+ "ref": "030101312045B",
+ "refDisplay": "0301 01 312045B",
+ "title": "EMBRAYAGE - MECANISME - DISQUE - BUTEE",
+ "nature": "",
+ "applicability": "BVM MLGU5C6B",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0FDT",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDT",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDT",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDT",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDT",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDT",
+   "fctId": "FCT0016"
+  }
+ ]
+}

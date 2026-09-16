@@ -1,0 +1,43 @@
+{
+ "ref": "030106183080A",
+ "refDisplay": "0301 06 183080A",
+ "title": "COLLECTEUR CATALYSEUR ECHAPP AV",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDA",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVH&B0F=B0FDA",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDA",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDA",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0FDA",
+   "fctId": "FCT0011"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDA",
+   "fctId": "FCT0011"
+  }
+ ]
+}

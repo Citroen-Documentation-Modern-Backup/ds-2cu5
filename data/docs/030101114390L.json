@@ -1,0 +1,33 @@
+{
+ "ref": "030101114390L",
+ "refDisplay": "0301 01 114390L",
+ "title": "CARTER DE DISTRIBUTION BOUCHONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDC",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDC",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDC",
+   "fctId": "FCT0007"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDC",
+   "fctId": "FCT0007"
+  }
+ ]
+}

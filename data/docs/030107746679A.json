@@ -1,0 +1,113 @@
+{
+ "ref": "030107746679A",
+ "refDisplay": "0301 07 746679A",
+ "title": "PANNEAU DE COTE ENCADREMENT COTE DROIT",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQQ&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQQ&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQQ&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQQ&B0F=B0FDD",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQR&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQR&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQR&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQR&B0F=B0FDD",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVQ&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVQ&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVQ&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVQ&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVQ&B0F=B0FDD",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDT",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDK",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDD",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDA",
+   "fctId": "FCT0129"
+  }
+ ]
+}

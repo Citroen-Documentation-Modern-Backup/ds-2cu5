@@ -1,0 +1,43 @@
+{
+ "ref": "030101223036D",
+ "refDisplay": "0301 01 223036D",
+ "title": "CARTER HUILE FILTRE SONDE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0FDT",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDT",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDT",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDT",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDT",
+   "fctId": "FCT0008"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDT",
+   "fctId": "FCT0008"
+  }
+ ]
+}

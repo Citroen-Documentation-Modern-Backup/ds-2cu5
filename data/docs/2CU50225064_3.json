@@ -1,0 +1,184 @@
+{
+ "ref": "2CU50225064_3",
+ "refDisplay": "2CU5 0 22 5064",
+ "title": "TUBE ALIMENTATION GROUPE CHAUFFAGE",
+ "nature": "",
+ "applicability": "(A07L) JUMPER II CHASSIS CABINE COURT TYPE 14 INJECTION XU10J2 4X4 DANGEL OU (A078) JUMPER II CHASSIS CABINE COURT TYPE 14 INJECTION XU10J2 BVM5 4X2",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGC&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGQ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGR&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGH&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGJ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNB&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNC&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQQ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQH&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQJ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVQ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVH&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTG&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSC&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWB&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWC&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWD&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWG&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFR&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRR&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFH&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFJ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRH&B0F=B0F5T",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRJ&B0F=B0F5T",
+   "fctId": "FCT0009"
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "ref": "030103434420A",
+ "refDisplay": "0301 03 434420A",
+ "title": "BRAS BUTEES MOYEUX ROULEMENTS ARRIERE",
+ "nature": "",
+ "applicability": "DISQUES AR SAUF 4X4 DANGEL",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGA&B0F=B0F2X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNA&B0F=B0F2X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTA&B0F=B0F2X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTF&B0F=B0F2X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFA&B0F=B0F2X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRA&B0F=B0F2X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFF&B0F=B0F2X",
+   "fctId": "FCT0030"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRF&B0F=B0F2X",
+   "fctId": "FCT0030"
+  }
+ ]
+}

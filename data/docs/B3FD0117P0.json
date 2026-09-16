@@ -1,0 +1,40 @@
+{
+ "ref": "B3FD0117P0",
+ "refDisplay": "B3FD0117P0",
+ "title": "Contrôle : pompe à vide",
+ "nature": "Contrôles",
+ "applicability": "",
+ "typDoc": "2",
+ "css": [
+  "css/Document/gammes.css",
+  "css/Document/texte.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDK",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDK",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDK",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDK",
+   "fctId": "FCT0044"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDK",
+   "fctId": "FCT0044"
+  }
+ ]
+}

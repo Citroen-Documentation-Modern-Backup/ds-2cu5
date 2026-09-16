@@ -1,0 +1,68 @@
+{
+ "ref": "030106640831A",
+ "refDisplay": "0301 06 640831A",
+ "title": "TUYAU FLUIDE REFRI - FIXATIONS",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0FDT",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDT",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDK",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDT",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDK",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDT",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDK",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDT",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDK",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDT",
+   "fctId": "FCT0347"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDK",
+   "fctId": "FCT0347"
+  }
+ ]
+}

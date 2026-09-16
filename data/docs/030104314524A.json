@@ -1,0 +1,38 @@
+{
+ "ref": "030104314524A",
+ "refDisplay": "0301 04 314524A",
+ "title": "EMETTEUR RECEPTEUR EMBRAYAGE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDK",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDK",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDK",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDK",
+   "fctId": "FCT0016"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDK",
+   "fctId": "FCT0016"
+  }
+ ]
+}

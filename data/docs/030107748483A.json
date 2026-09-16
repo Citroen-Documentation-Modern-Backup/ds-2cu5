@@ -1,0 +1,68 @@
+{
+ "ref": "030107748483A",
+ "refDisplay": "0301 07 748483A",
+ "title": "OSSATURE PANNEAU COTE RAIDISSEUR DROIT",
+ "nature": "",
+ "applicability": "PORTE LAT G D COULISSANTE VITREE OU CONDUITE A GAUCHE",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSC&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSC&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSC&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSC&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSD&B0F=B0F5T",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSD&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSD&B0F=B0FDB",
+   "fctId": "FCT0129"
+  }
+ ]
+}

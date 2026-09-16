@@ -1,0 +1,88 @@
+{
+ "ref": "030108931010A",
+ "refDisplay": "0301 08 931010A",
+ "title": "ARMATURE ASSISE INTERMEDIAIRE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0F7W",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0FDB",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0FDD",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0F5T",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0F7W",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0FDB",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0FDD",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJH&B0F=B0F7W",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJH&B0F=B0FDB",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJJ&B0F=B0F7W",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJJ&B0F=B0FDB",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJX&B0F=B0F7W",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJY&B0F=B0F7W",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJY&B0F=B0FDB",
+   "fctId": "FCT0224"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJY&B0F=B0FDD",
+   "fctId": "FCT0224"
+  }
+ ]
+}

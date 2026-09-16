@@ -1,0 +1,33 @@
+{
+ "ref": "030103440527A",
+ "refDisplay": "0301 03 440527A",
+ "title": "CANALISATION TUYAU HP/BP SERVO",
+ "nature": "",
+ "applicability": "3 PREMIERS CARACTERES DU VIN = 935",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDC",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDC",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDC",
+   "fctId": "FCT0339"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDC",
+   "fctId": "FCT0339"
+  }
+ ]
+}

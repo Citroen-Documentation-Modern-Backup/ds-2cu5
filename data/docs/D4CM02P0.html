@@ -1,0 +1,84 @@
+<div id="title" class="section_titre"><table class="refDoc"><tbody><tr><td colspan="2" class="references">D4CM02P0</td><td class="title">Opérations après-vente : Antidémarrage codé (centrale FIAT code 2)</td></tr></tbody></table></div><div id="appl" class="section_appl"> DEPUIS SERIE 17000001</div><div class="section_corps" id="content"><div class="cha1"><div class="sti1">1. Apprentissage des clés</div></div>
+<div class="par">L’identifiant de la clé doit être mémorisé dans la centrale code pour permettre le démarrage du véhicule.</div><div class="par">La centrale code peut mémoriser    8 clés au maximum.</div><div class="rem"><div class="imp"><span class="maj">IMPERATIF</span> : Pour mémoriser une nouvelle clé dans la centrale code  , Il est indispensable de réapprendre toutes les clés. </div></div>
+<div class="par">L’identifiant du transpondeur d’une clé perdue ou volée est désactivée de la mémoire de la centrale code lors du réapprentissage des clés restant en possession du client.</div><div class="cha1"><div class="sti1">2. Remplacement de la centrale code</div></div>
+<div class="par">Lors du remplacement de la centrale code, il faut effectuer les opérations suivantes.</div><div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">     1</td>
+<td colspan="1" rowspan="1">Demander au client toutes les clés qui sont restées en sa possession</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">2</td>
+<td colspan="1" rowspan="1">Commander la pièce (fournir le numéro de châssis du véhicule)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">3</td>
+<td colspan="1" rowspan="1">Le service pièces détachées est en mesure de réaliser une centrale code ayant un code secret et un code fixe identiques à la centrale précédente. La base de données est mise à jour</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">4</td>
+<td colspan="1" rowspan="1">Monter la nouvelle centrale code livrée vierge</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">5</td>
+<td colspan="1" rowspan="1">Exécuter l’enregistrement des clés à l’aide de l’outil de diagnostic en introduisant toutes les clés précédemment habilitées (*)</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">6</td>
+<td colspan="1" rowspan="1">Effectuer le contrôle final du système code avec un outil de diagnostic</td>
+</tr></tbody></table>
+</div>
+<div class="par">  (*) Se reporter à la brochure diagnostic "antidémarrage codé".</div><div class="rem"><div class="not"><span class="maj">NOTA</span> : Le code électronique ne peut pas être lu dans la centrale code. </div></div>
+<div class="cha1"><div class="sti1">3. Remplacement du calculateur moteur</div></div>
+<div class="par">Le calculateur moteur vierge et la centrale code sont appairés à la mise au +APC.</div><div class="par">La mise au +APC doit se faire avec une clé reconnue par la centrale code.</div><div class="par">Le calculateur moteur et la centrale code sont appairés automatiquement.</div><div class="par">Le contrôle d’appairage est réalisé à la demande de l’utilisateur avec l’outil de diagnostic.</div><div class="cha1"><div class="sti1">4. Démarrage d’urgence</div></div>
+<div class="cha2"><div class="sti2">4.1. Généralités</div></div>
+<div class="par">La procédure de démarrage d’urgence permet de démarrer le moteur en cas de défaillance du système antidémarrage codé.</div><div class="par">Cette opération peut être effectuée à l’aide de outil de diagnostic ou avec la carte code.</div><div class="par">La procédure de démarrage d’urgence est utilisée pour conduire le véhicule jusqu’au réseau du service Après Vente.</div><div class="par">Après chaque coupure du contact, la procédure de démarrage d’urgence doit-être répétée.</div><div class="cha2"><div class="sti2">4.2. Procédure de démarrage d’urgence</div></div>
+<div class="par">Procédure de l’opération avec le code électronique de la carte code, par appuis sur la pédale d’accélérateur.</div><div class="par">Il faut utiliser le témoin de contrôle moteur pour gérer la procédure.</div><div class="par">Le code électronique est transmis à la centrale code en agissant sur la pédale de l’accélérateur.</div><div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1">                       1</td>
+<td colspan="1" rowspan="1">Lire les 5 chiffres du code de démarrage d’urgence sur la carte code</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">2</td>
+<td colspan="1" rowspan="1">Placer la clé de contact en position +APC</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">3</td>
+<td colspan="1" rowspan="1">Appuyer et maintenir la pédale d’accélérateur à fond de course. Le témoin de panne de l’injection s’allume pendant 4 secondes, puis s’éteint brièvement (150 ms) et se rallume pendant 4 secondes</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">4</td>
+<td colspan="1" rowspan="1">Relâcher la pédale de l’accélérateur quand le témoin s’éteint. Au moment du relâchement de la pédale le témoin commence à clignoter à 1.25 seconde</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">5</td>
+<td colspan="1" rowspan="1">Compter le nombre de clignotement. Lorsque le nombre de clignotement correspond au premier nombre du code électronique de la carte code, appuyer et maintenir à fond la pédale de l’accélérateur. Le témoin de contrôle moteur s’allume de nouveau pendant 4 secondes, puis s’éteint pour dire que le premier chiffre est acquis</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">6</td>
+<td colspan="1" rowspan="1">Relâcher la pédale de l’accélérateur quand le témoin s’éteint</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">7</td>
+<td colspan="1" rowspan="1">Après un nombre de clignotement égale au deuxième chiffre du code électronique, appuyer sur la pédale d’accélérateur. Le témoin de contrôle moteur s’allume de nouveau pendant 4 secondes, puis s’éteint pour dire que le deuxième chiffre est acquis. Répéter les étapes 6 et 7 pour les autres chiffres inscrit sur la carte code</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">8</td>
+<td colspan="1" rowspan="1">Au moment du relâchement de la pédale après que le dernier chiffre a été acquis, le témoin clignote avec une fréquence double à environ une demi seconde pour indiquer que tout le code à été accepté</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">9</td>
+<td colspan="1" rowspan="1">Mettre le moteur en marche</td>
+</tr></tbody></table>
+</div>
+<div class="rem"><div class="not"><span class="maj">NOTA</span> : Si le témoin reste allumé, cela signifie que le code à été refusé  . Mettre la clé sur STOP et recommencer l’opération depuis le début. </div></div>
+<div class="cha1"><div class="sti1">5. Procédure d’intervention</div></div>
+<div class="cha2"><div class="sti2">5.1. Perte des clés</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1"> 1</td>
+<td colspan="1" rowspan="1">Demander au client toutes les clés qui sont restées en sa possession</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">2</td>
+<td colspan="1" rowspan="1">Effectuer l’apprentissage des clés restante dans la centrale code, avec un outil de diagnostic. Pour les version équipées d’une télécommande, effectuer également l’apprentissage des télécommandes</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">3</td>
+<td colspan="1" rowspan="1">Commander la clé en fournissant le numéro de châssis du véhicule</td>
+</tr><tr valign="top"><td colspan="1" rowspan="5">4</td>
+<td colspan="1" rowspan="1">Le service Pièces de Rechange fournit une clé ayant :</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">- La même forme</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">- Un transpondeur ayant un nouveau identifiant mais avec le code secret de la centrale code</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">- Le même code mécanique</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">- Un nouveau code de télécommande HF</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">5</td>
+<td colspan="1" rowspan="1">Exécuter l’apprentissage des clés à l’aide de l’outil de diagnostic en introduisant les clés neuves et celles en votre possession. Pour les version munies de télécommandes HF, introduire le code récepteur "password"</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">6</td>
+<td colspan="1" rowspan="1">Effectuer le contrôle final du système code et du système d’alarme (si présent) avec un outil de diagnostic</td>
+</tr><tr><td class="pied" colspan="2">(*) Selon version</td></tr></tbody></table>
+</div>
+<div class="rem"><div class="not"><span class="maj">NOTA</span> : Le remplacement du transpondeur dans la clé n’est pas possible  . Le transpondeur est solidaire du boîtier des clés. </div></div>
+<div class="cha2"><div class="sti2">5.2. Perte de la carte code</div></div>
+<div class="tableau">
+<table class="tableauAC">
+<tbody><tr valign="top"><td colspan="1" rowspan="1"> 1</td>
+<td colspan="1" rowspan="1">Demander au client toutes les clés qui sont restées en sa possession</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">2</td>
+<td colspan="1" rowspan="1">Contacter le Service des Pièces de Rechange et fournir le numéro de châssis du véhicule</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">3</td>
+<td colspan="1" rowspan="1">Le service Pièces de Rechange fournit une nouvelle carte code identique</td>
+</tr><tr valign="top"><td colspan="1" rowspan="1">4</td>
+<td colspan="1" rowspan="1">Remettre la carte code au client en l’informant qu’il s’agit d’une copie. L’ancienne carte code permet encore le démarrage d’urgence du véhicule</td>
+</tr></tbody></table>
+</div>
+</div>

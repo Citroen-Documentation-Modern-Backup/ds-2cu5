@@ -1,0 +1,18 @@
+{
+ "ref": "030104371116A",
+ "refDisplay": "0301 04 371116A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM MLGU5C6 ET 3 PREMIERS CARACTERES DU VIN = VF7",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDB",
+   "fctId": "FCT0022"
+  }
+ ]
+}

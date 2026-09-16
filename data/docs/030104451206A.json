@@ -1,0 +1,23 @@
+{
+ "ref": "030104451206A",
+ "refDisplay": "0301 04 451206A",
+ "title": "FREINS AVANT DISQUE ETRIER PLAQUETTES",
+ "nature": "",
+ "applicability": "3 PREMIERS CARACTERES DU VIN = 935",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDK",
+   "fctId": "FCT0040"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDK",
+   "fctId": "FCT0040"
+  }
+ ]
+}

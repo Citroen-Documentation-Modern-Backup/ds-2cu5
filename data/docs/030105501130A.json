@@ -1,0 +1,38 @@
+{
+ "ref": "030105501130A",
+ "refDisplay": "0301 05 501130A",
+ "title": "FAISCEAU PRINCIPAL COMPARTIMENT MOTEUR",
+ "nature": "",
+ "applicability": "CONDUITE A GAUCHE ET 3 PREMIERS CARACTERES DU VIN = 935",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDK",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDK",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDK",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDK",
+   "fctId": "FCT0308"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDK",
+   "fctId": "FCT0308"
+  }
+ ]
+}

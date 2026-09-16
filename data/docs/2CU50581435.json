@@ -1,0 +1,39 @@
+{
+ "ref": "2CU50581435",
+ "refDisplay": "2CU5 0 58 1435",
+ "title": "MANCHON ENTRE TUBULURE-COLLECT ADM",
+ "nature": "",
+ "applicability": "(A085) JUMPER II FOURGON TOLE LONG FLAN HAUT PAV STD TYPE 18 DIESEL SOFIM 2800 TD BVM5 4X2",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDA",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVH&B0F=B0FDA",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDA",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDA",
+   "fctId": "FCT0014"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDA",
+   "fctId": "FCT0014"
+  }
+ ]
+}

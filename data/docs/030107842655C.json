@@ -1,0 +1,243 @@
+{
+ "ref": "030107842655C",
+ "refDisplay": "0301 07 842655C",
+ "title": "VITRE DE PORTE LATERALE AR COULISSANTE",
+ "nature": "",
+ "applicability": "3 PREMIERS CARACTERES DU VIN = VF7 SAUF MINIBUS",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F5T",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F5T",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F7W",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0F7W",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDT",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDT",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDK",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDK",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDB",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDB",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDD",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDD",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDC",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDC",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYQ&B0F=B0F5T",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYQ&B0F=B0F5T",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYQ&B0F=B0F7W",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYQ&B0F=B0F7W",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYQ&B0F=B0FDB",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYQ&B0F=B0FDB",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F2X",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F2X",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F5T",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F5T",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F7W",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F7W",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0FDB",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0FDB",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0F2X",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0F2X",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0F5T",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0F5T",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0F7W",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0F7W",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0FDB",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0FDB",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0FDA",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0FDA",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0F5T",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0F5T",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0F7W",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0F7W",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDB",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDB",
+   "fctId": "FCT0329"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDD",
+   "fctId": "FCT0139"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDD",
+   "fctId": "FCT0329"
+  }
+ ]
+}

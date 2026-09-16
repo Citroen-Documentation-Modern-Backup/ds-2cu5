@@ -1,0 +1,54 @@
+{
+ "ref": "2CU50353710",
+ "refDisplay": "2CU5 0 35 3710",
+ "title": "1 INJECTEUR GPL/GNV",
+ "nature": "",
+ "applicability": "(A0A9) JUMPER II FOURG TOLE LONG FLAN HAUT PAV SUR TYPE 14 INJECTION XU10J2 BVM5 4X2 BICARBURATION GPL OU (A0A8) JUMPER II FOURG TOLE LONG FLAN HAUT PAV SUR TYPE 14 INJECTION XU10J2 BVM5 4X2 BICARBURATION GNV",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQQ&B0F=B0F5T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQH&B0F=B0F5T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVQ&B0F=B0F5T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0F5T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVH&B0F=B0F5T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0F5T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0F5T",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRR&B0F=B0F5T",
+   "fctId": "FCT0010"
+  }
+ ]
+}

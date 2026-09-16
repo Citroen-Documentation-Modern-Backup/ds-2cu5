@@ -1,0 +1,28 @@
+{
+ "ref": "030103434301A",
+ "refDisplay": "0301 03 434301A",
+ "title": "AMORTISSEURS SUSPENSION ARRIERE",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNA&B0F=B0F2X",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTA&B0F=B0F2X",
+   "fctId": "FCT0032"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTF&B0F=B0F2X",
+   "fctId": "FCT0032"
+  }
+ ]
+}

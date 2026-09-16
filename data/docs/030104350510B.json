@@ -1,0 +1,123 @@
+{
+ "ref": "030104350510B",
+ "refDisplay": "0301 04 350510B",
+ "title": "TRANSMISSION LONGITUDINALE",
+ "nature": "",
+ "applicability": "4X4 DANGEL DEPUIS DATE 20031101",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGQ&B0F=B0F2X",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGQ&B0F=B0F5T",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGQ&B0F=B0F7W",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGQ&B0F=B0FDB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGQ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGR&B0F=B0F5T",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGR&B0F=B0F7W",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGR&B0F=B0FDB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0F7W",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0FDB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0F5T",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0F7W",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0FDB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMQ&B0F=B0F7W",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMQ&B0F=B0FDB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMQ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMR&B0F=B0F7W",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMR&B0F=B0FDB",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  }
+ ]
+}

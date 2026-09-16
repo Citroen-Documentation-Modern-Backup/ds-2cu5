@@ -1,0 +1,178 @@
+{
+ "ref": "030102140034Q",
+ "refDisplay": "0301 02 140034Q",
+ "title": "POMPE INJECTION SUPPORT PIGNON",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQC&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGC&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGD&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGQ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGR&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGJ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGY&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJQ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJY&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMQ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMR&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMJ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNC&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQQ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQR&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQJ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTC&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTD&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVQ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVH&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQA&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQB&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFQ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFR&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRR&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFJ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRJ&B0F=B0FDD",
+   "fctId": "FCT0010"
+  }
+ ]
+}

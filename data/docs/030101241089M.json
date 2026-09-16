@@ -1,0 +1,33 @@
+{
+ "ref": "030101241089M",
+ "refDisplay": "0301 01 241089M",
+ "title": "MOTOVENTILATEUR BUSE CONDUIT D’AIR",
+ "nature": "",
+ "applicability": " JUSQU’A DATE 20090628",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDC",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTH&B0F=B0FDC",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDC",
+   "fctId": "FCT0009"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDC",
+   "fctId": "FCT0009"
+  }
+ ]
+}

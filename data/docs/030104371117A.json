@@ -1,0 +1,113 @@
+{
+ "ref": "030104371117A",
+ "refDisplay": "0301 04 371117A",
+ "title": "TRANSMISSION TRANSVERSALE",
+ "nature": "",
+ "applicability": "BVM5 MLGU",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGD&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGJ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGY&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DJY&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DMJ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQJ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTD&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVJ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQB&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRR&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFJ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRJ&B0F=B0FDD",
+   "fctId": "FCT0022"
+  }
+ ]
+}

@@ -1,0 +1,213 @@
+{
+ "ref": "030103434205A",
+ "refDisplay": "0301 03 434205A",
+ "title": "BARRES TORSION AVANT RESSORT",
+ "nature": "",
+ "applicability": "",
+ "typDoc": "1",
+ "css": [
+  "css/Document/pr.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGB&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DGG&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNB&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNB&B0F=B0F5T",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNB&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DNB&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQG&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQG&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DQG&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTB&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTB&B0F=B0F5T",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTB&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTB&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVG&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVG&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DVG&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTG&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTG&B0F=B0F5T",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTG&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DTG&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0F5T",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DSB&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWB&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWB&B0F=B0F5T",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWB&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWB&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F5T",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYG&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWG&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWG&B0F=B0F5T",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWG&B0F=B0F7W",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWG&B0F=B0FDB",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFB&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRB&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DFG&B0F=B0F2X",
+   "fctId": "FCT0027"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DRG&B0F=B0F2X",
+   "fctId": "FCT0027"
+  }
+ ]
+}

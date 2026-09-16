@@ -1,0 +1,49 @@
+{
+ "ref": "2CU503447528",
+ "refDisplay": "2CU5 0 344 7528",
+ "title": "PANNEAU LAT AV VIT MOYEN FLANCS BAS",
+ "nature": "",
+ "applicability": "(A0AY) JUMPER II FOURGON VITRE MOYEN FLAN HAUT PAV STD TYPE 14 DIESEL TURBO DW12UTED BVM5 4X2 COMBI",
+ "typDoc": "6",
+ "css": [
+  "css/Document/baremes.css",
+  "css/Document/common.css"
+ ],
+ "usedBy": [
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYH&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDB",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DYJ&B0F=B0FDD",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0F2X",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0F7W",
+   "fctId": "FCT0129"
+  },
+  {
+   "ldp": "2CU5",
+   "variantKey": "B0D=B0DWH&B0F=B0FDB",
+   "fctId": "FCT0129"
+  }
+ ]
+}
